@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Appointment {
     private Connection connection;
-    private Scanner;
+    private Scanner scnnner;
 
     public Appointment(Connection connection, Scanner scanner){
         this.connection = connection;
