@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 public class Appointment {
-    private Connection;
+    private Connection connection;
     private Scanner;
 
     public Appointment(Connection connection, Scanner scanner){
